@@ -1,0 +1,7 @@
+server:
+  scan.interval: 10m
+
+devices:
+  - name: WinBox
+    ip: 192.168.100.11
+    note: This is my PC. There's definitely nothing suspicious.
